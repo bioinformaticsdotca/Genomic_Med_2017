@@ -24,5 +24,5 @@ Day 0: Introduction to Unix 5:00 pm
 | 2:30 | Coffee break | 3:00 | Coffee break |  
 | 3:00 | Module 3 Lab | 3:30 | Module 7 Lab |  
 | 5:00 | Module 4: Translating Research Workflows into Clinical Tests (Virtanen) | | |  
-| 5:30 | Dinner on your own | | |  
-| 6:30 | Compound ID | 5:00 | Survey and Closing Remarks |       
+| 5:30 | Dinner on your own | 5:00 | Survey and Closing Remarks |       
+
