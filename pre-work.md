@@ -38,3 +38,19 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 * bumphunter  
 
 **Read these papers before the workshop:**
+
+**Do these tutorials before the workshop:**
+
+1) **R Preparation tutorials**: You are expected to have completed the following tutorials in **R** beforehand. The tutorial should be very accessible even if you have never used **R** before.
+
+* The [CBW R tutorial](http://bioinformatics-ca.github.io/CBW_R_Tutorial/)
+* [Quick and Dirty Guide to **R**](http://ww2.coastal.edu/kingw/statistics/R-tutorials/text/quick&dirty_R.txt)  
+* The [R Tutorial](http://www.cyclismo.org/tutorial/R/) up to and including 5. Basic Plots
+* The [R command cheat sheet](../../resources/R_Short-refcard.pdf)
+
+2) **UNIX Preparation tutorials**:  
+
+* [UNIX Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+* [Unix Cheat sheet](http://www.rain.org/~mkummel/unix.html) 
+
+3) [Sequencing Terminology](http://www.ncbi.nlm.nih.gov/projects/genome/glossary.shtml)
