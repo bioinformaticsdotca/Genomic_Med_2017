@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /GenMed_2017_module1_lab
+permalink: /GenMed_2017_prework
 title: GenMed PreWork
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine 2017 Pre-Work
