@@ -42,6 +42,12 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 * ggplot2  
 * reshape2  
 * pROC  
+* caret
+* gplots  
+* limma  
+* lumi  
+* matrixStats  
+* sva  
 
 **Read these papers before the workshop:**
 
