@@ -35,7 +35,11 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 8) Install these packages in RStudio:
 
 * minfi  
-* bumphunter  
+* bumphunter 
+* SNFtool  
+* RColorBrewer  
+* glmnet  
+* ggplot2  
 
 **Read these papers before the workshop:**
 
