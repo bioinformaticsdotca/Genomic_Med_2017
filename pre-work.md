@@ -41,6 +41,7 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 * glmnet  
 * ggplot2  
 * reshape2  
+* pROC  
 
 **Read these papers before the workshop:**
 
