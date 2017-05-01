@@ -48,7 +48,7 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 [The Human Phenotype Ontology: A Tool for Annotating and Analyzing Human Hereditary Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668030/)  
 [PhenoTips: patient phenotyping software for clinical and research use](https://www.ncbi.nlm.nih.gov/pubmed/23636887)  
 [PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations](https://www.ncbi.nlm.nih.gov/pubmed/27514055)  
-[GenAp: a distributed SQL interface for genomic data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0904-1)  
+[IHEC Data portal](http://www.cell.com/cell-systems/abstract/S2405-4712(16)30362-3)  
 
 
 
