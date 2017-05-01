@@ -1,4 +1,3 @@
-
 ---
 layout: tutorial_page
 permalink: /GenMed_2017_module1_lab
