@@ -11,7 +11,7 @@ image: /site_images/CBW_population_icon.jpg
 
 Welcome to Bioinformatics of Genomic Medicine.  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/genmed_2017_schedule).
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/GenMed_2017_prework).
 
 Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/genmed_2017_prework).  
 
