@@ -32,22 +32,33 @@ home: https://bioinformaticsdotca.github.io/genmed_2017_prework
 
 7) Latest version of [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/).  If asked to also install git, select yes.
 
-8) Install these packages in RStudio:
+8) Install the BioConductor core packages. To do this, open RStudio and type the following at the > prompt:
 
-* minfi  
-* bumphunter 
-* SNFtool  
-* RColorBrewer  
-* glmnet  
-* ggplot2  
-* reshape2  
-* pROC  
-* caret
-* gplots  
-* limma  
-* lumi  
-* matrixStats  
-* sva  
+```r
+source("http://bioconductor.org/biocLite.R");
+biocLite();
+```
+
+9) Install some workshop specific packages in RStudio. At the > prompt, type:
+
+```r
+install.packages("SNFtool");
+install.packages("gplots");
+install.packages("RColorBrewer");
+install.packages("glmnet");
+install.packages("ggplot2");
+install.packages("reshape2");
+install.packages("pROC");
+install.packages("caret");
+install.packages("matrixStats");
+source("http://bioconductor.org/biocLite.R");
+biocLite("minfi");
+biocLite("bumphunter");
+biocLite("limma");
+biocLite("lumi");
+biocLite("sva");
+
+```  
 
 **Read these papers before the workshop:**
 
