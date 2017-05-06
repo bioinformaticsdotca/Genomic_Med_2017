@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /genomic_med_2017_module5_lab
-title: Genomic Medicine 2017
+permalink: /GenMed_2017_module5_lab
+title: GenMed Lab 5
 header1: Workshop Pages for Students
-header2: Genomic Medicine 2017 Module 6 Lab
-image: /site_images/CBW_Genomic_med_icon.jpg
-home: https://bioinformaticsdotca.github.io/genomic_med_2017
+header2: Genomic Medicine 2017 Module 5 Lab
+image: /site_images/CBW_population_icon.jpg
+home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
 ---
 
 # Module 5: Available Epigenomics Data and Resources
