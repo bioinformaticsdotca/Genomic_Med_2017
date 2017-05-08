@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /GenMed_2017_prework
+permalink: /genmed_2017_prework
 title: GenMed PreWork
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine 2017 Pre-Work
@@ -76,7 +76,7 @@ biocLite("sva");
 * The [CBW R tutorial](http://bioinformatics-ca.github.io/CBW_R_Tutorial/)
 * [Quick and Dirty Guide to **R**](http://ww2.coastal.edu/kingw/statistics/R-tutorials/text/quick&dirty_R.txt)  
 * The [R Tutorial](http://www.cyclismo.org/tutorial/R/) up to and including 5. Basic Plots
-* The [R command cheat sheet](../../resources/R_Short-refcard.pdf)
+* The [R command cheat sheet](https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/resources/R_Short-refcard.pdf)
 
 2) **UNIX Preparation tutorials**:  
 
