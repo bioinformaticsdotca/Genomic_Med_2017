@@ -5,7 +5,7 @@ title: GenMed PreWork
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine 2017 Pre-Work
 image: /site_images/CBW_population_icon.jpg
-home: https://bioinformaticsdotca.github.io/genmed_2017_prework
+home: https://bioinformaticsdotca.github.io
 ---
 
 **Install these tools before the workshop:**
