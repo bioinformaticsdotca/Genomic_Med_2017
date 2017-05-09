@@ -1,3 +1,6 @@
 [submodule "CBW_BFX_GENOMIC_MEDECINE_module2"]
 	path = CBW_BFX_GENOMIC_MEDECINE_module2
 	url = https://github.com/mbourgey/CBW_BFX_GENOMIC_MEDECINE_module2.git
+[submodule "CBW_BFX_GENOMIC_MEDECINE_module3"]
+	path = CBW_BFX_GENOMIC_MEDECINE_module3
+	url = https://github.com/mbourgey/CBW_BFX_GENOMIC_MEDECINE_module3.git
