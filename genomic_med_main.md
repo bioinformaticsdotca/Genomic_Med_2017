@@ -18,6 +18,9 @@ Pre-readings, pre-work, and laptop setup instructions can be found [here](https:
 If you have questions or comments, visit the workshop [Q&A forum](https://noteapp.com/GenMed2017).
 
 ***
+## Unix Tutorial
+
+[Lab Practical](https://bioinformatics.ca/genmed2017modunix)  
 
 # Day 1 <a id="day1"></a>
 
@@ -31,33 +34,33 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Michael Brudno</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod1)  
 
-[Lab Practical]()
+[Lab Practical](https://bioinformaticsdotca.github.io/)
 
 
 ## Module 2: Introduction to Tools, Computing Infrastructure, and Data
 
 *<font color="#827e9c">Mathieu Bourgey</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod2)  
 
-[Lab Practical]()
+[Lab Practical](https://bioinformaticsdotca.github.io//Bioinformatics-for-genomics-medecine_2017_module2_lab)
 
 ## Module 3: Variant Annotation
 
 *<font color="#827e9c">Guillaume Bourque</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod3)  
 
-[Lab Practical]()  
+[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module3_lab)  
 
 
 ## Module 4: Translating Research Workflows into Clinical Tests
 
 *<font color="#827e9c">Carl Virtanen</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod4)  
 
 ***
 
@@ -67,24 +70,26 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Guillaume Bourque</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod5)  
 
-[Lab Practical]()
+[Lab Practical](https://bioinformaticsdotca.github.io/)
 
 ## Module 6: Epigenetic Profiling in Disease
 
 *<font color="#827e9c">Andrei Turinsky</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod6)  
 
-[Lab Practical]()
+[Lab Practical](https://bioinformaticsdotca.github.io/)
 
 ## Module 7: Patient Similarity Fusion 
 
 *<font color="#827e9c">Anna Goldenberg</font>* 
 
-[Lecture]()
+[Lecture](https://bioinformatics.ca/genmed2017mod7)
 
-[Lab Practical]()
+[Lab Lecture](https://bioinformatics.ca/genmed2017mod7b)
+
+[Lab Practical](https://bioinformaticsdotca.github.io/)
 
 ***
