@@ -39,14 +39,14 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 * Only these categories will now get displayed in the grid. Select the following grid cells:
 
-![img](https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_muscle_h3k27ac.png)
+<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_muscle_h3k27ac.png" alt="IMG" width="750" />
 
 #### Visualizing the tracks
 
 * Select "Visualize in Genome Browser"
     * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen muscle H3K427ac ChIP-Seq datasets. In the Genome Browser, you can expand the tracks by changing visibility from "pack" to "full" and clicking the "Refresh" button.
 
-![img](https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_fullTrackView.png)
+<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_fullTrackView.png" alt="IMG" width="750" />
     
 * You can also download these tracks locally for visualization in IGV. (You can skip this step if you're comfortable with IGV already)
     * Go back to the IHEC Data Portal tab.
@@ -61,7 +61,7 @@ You can get a whole genome overview of the similarity of a group of tracks by us
 
 * Select all ChIP-Seq marks for the cell type "Bone Marrow Derived Mesenchymal Stem Cell Cultured Cell".
 
-![img](https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_roadmap_chipseq.png)
+<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_roadmap_chipseq.png" alt="IMG" width="750" />
 
 * At the bottom of the grid, click on the button "Correlate tracks".
 
@@ -73,7 +73,7 @@ You can get a whole genome overview of the similarity of a group of tracks by us
     * Click on "Correlate tracks".
     * One dataset seems to be an outlier... This is either a problem with the quality of the dataset, or the underlying metadata can indicate that something is different (disease status or some other key element).
 
-![img](https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_BCell.png)
+<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_BCell.png" alt="IMG" width="750" />
 
 ### 2- ENCODE Data Portal
 
