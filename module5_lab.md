@@ -37,9 +37,9 @@ In this module's lab, we will explore some of the tools that were covered in the
 * You will get a grid with all available datasets for IHEC Core Assays.
     * You can filter visible datasets in the grid using the filtering options on the right side of the grid.
 
-* Select only the datasets coming from the CEEHRC consortium
+* Select only the datasets coming from the CEEHRC consortium, you should see something like this:
 
-<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_muscle_h3k27ac.png" alt="IMG" width="750" />
+<img src="https://bioinformaticsdotca.github.io/Genomic_Med_2017/img/ihec_data.jpeg" alt="IMG" width="750" />
 
 #### Visualizing the tracks
 
