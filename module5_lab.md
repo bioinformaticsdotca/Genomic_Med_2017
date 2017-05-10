@@ -10,12 +10,14 @@ home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
 
 # Module 5: Available Epigenomics Data and Resources
 
+by Guillaume Bourque, *PhD*
+
 ## Introduction
 
 ### Description of the lab
 In this module's lab, we will explore some of the tools that were covered in the lecture.
 
-* First, we will learn how to use the IHEC Data Portal's tools to fetch datasets tracks of interest.
+* First, we will learn how to use the IHEC Data Portal's tools to fetch datasets of interest.
 * Second, we will explore the ENCODE Data Portal.
 * Third, we will explore the GTEx Data Portal.
 
@@ -33,11 +35,9 @@ In this module's lab, we will explore some of the tools that were covered in the
 * In the Overview page, click on the "View all" button.
 
 * You will get a grid with all available datasets for IHEC Core Assays.
-    * You can filter out visible datasets in the grid using the filtering options at the bottom of the grid.
+    * You can filter visible datasets in the grid using the filtering options on the right side of the grid.
 
-* Go back to the Overview page, and select the following categories of datasets: "Histone" for the "Muscle" cell type.
-
-* Only these categories will now get displayed in the grid. Select the following grid cells:
+* Select only the datasets coming from the CEEHRC consortium
 
 <img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_muscle_h3k27ac.png" alt="IMG" width="750" />
 
