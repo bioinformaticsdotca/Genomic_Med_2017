@@ -18,6 +18,13 @@ Pre-readings, pre-work, and laptop setup instructions can be found [here](https:
 If you have questions or comments, visit the workshop [Q&A forum](https://noteapp.com/GenMed2017).
 
 ***
+
+# Class Photo
+
+<img src="https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/CBW-May10-2017.jpeg?raw=true" alt="Class Photo" width="750" />
+
+***
+
 ## Unix Tutorial
 
 [Lab Practical](https://bioinformatics.ca/genmed2017modunix)  
