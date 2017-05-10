@@ -36,7 +36,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lecture](https://bioinformatics.ca/genmed2017mod1)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io/)
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module1_lab)
+
+[Demo Exomes](https://drive.google.com/open?id=0B9YRtlFnFl-Qa1ZiSmVMa0hxdjg) 
+
+[Coded Phenotypes](https://github.com/bioinformaticsdotca/Genomic_Med_2017/raw/master/mod1_lab/Coded%20Phenotypes%20to%20match%20VCF%20Labels-20170509T210405Z-001.zip)  
 
 
 ## Module 2: Introduction to Tools, Computing Infrastructure, and Data
@@ -45,7 +49,13 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lecture](https://bioinformatics.ca/genmed2017mod2)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io//Bioinformatics-for-genomics-medecine_2017_module2_lab)
+[Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module2_lab)
+
+[Lab Practical 2b](/https://bioinformaticsdotca.github.io/GenMed_2017_module1_lab)  
+
+[Demo Exomes](https://drive.google.com/open?id=0B9YRtlFnFl-Qa1ZiSmVMa0hxdjg)  
+
+[Coded Phenotypes](https://github.com/bioinformaticsdotca/Genomic_Med_2017/raw/master/mod1_lab/Coded%20Phenotypes%20to%20match%20VCF%20Labels-20170509T210405Z-001.zip)  
 
 ## Module 3: Variant Annotation
 
