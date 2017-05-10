@@ -45,7 +45,7 @@ home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
 * Take a patient description and enter it & the corresponding VCF file into PhenomeCentral  
 * Look at the top automatically predicted candidate genes. You can look them up on OMIM or google them to find out their associated diseases  
 
-# Lab 2B 
+# Lab 3B 
 
 * Go back to courses.phenomecentral.org  
 * See the top matches for your patient. There should be both phenotypic and genetic similarity  
