@@ -47,7 +47,7 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 * Click on the button *Correlate datasets* just below the grid, you should see something like:
 
-<img src="https://bioinformaticsdotca.github.io/Genomic_Med_2017/img/correlation.jpeg" alt="IMG" width="750" />
+<img src="https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg" alt="IMG" width="750" />
 
 #### Visualizing the tracks
 
