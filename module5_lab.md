@@ -124,3 +124,6 @@ Finally, you can create a permanent session corresponding to your current select
 
 ### Congrats, you're done!
 
+### Acknowledgements
+
+Part of this module was developped by David Bujold, who also developped the IHEC Data Portal.
