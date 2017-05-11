@@ -97,7 +97,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lecture](https://bioinformatics.ca/genmed2017mod6)  
 
-[Lab Script](https://bioinformaticsdotca.github.io/GenMed_2017_module6_lab)  
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module6_lab)  
 
 [Lab Script](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)
 
