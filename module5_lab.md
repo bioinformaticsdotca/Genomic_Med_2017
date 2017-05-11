@@ -83,7 +83,7 @@ You can get a whole genome overview of the similarity of a group of tracks by us
 
 [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg)
 
-* Can you find a outlier/bad datasets?
+* Can you find a outlier/bad dataset?
    * Try correlating the 8 *amygdala - Other* with the 5 *B cell - Blood* H3K27ac datasets 
 
 #### Download tracks or metadata
@@ -96,22 +96,27 @@ You can also download these tracks locally for visualization or further analysis
 * Click on the *Get metadata* button at the bottom of the grid.
 
 #### Permanent session
-Finally, you can create a permanent session corresponding to your current selections in the portal
+Finally, you can create a permanent session corresponding to your current selection of datasets
 
 * Go back to the IHEC Data Portal tab.
 * Make a selection of datasets and click on the *Save session* button at the bottom of the grid.
-* You now have a nicer and permanent view of the data you have selected
-   * You can use this ID and assocaited web address (e.g. http://epigenomesportal.ca/ihec/IHECDP00000092) and share it with your collaborators or in publications
+* You now have a nicer and permanent view of the data that you have selected
+   * You can use this ID and associated web address (e.g. http://epigenomesportal.ca/ihec/IHECDP00000092) and share it with your collaborators or in a publication
 * A permanent session also has links to all the raw datasets
-* Is is as easy that access that data?
+* Is is as easy that access that data? Why?
 
 ### 2- ENCODE Data Portal
 
-TODO
+* Go to https://www.encodeproject.org/
+* So much data! Can you find which human cell type has the most ChIP-seq datasets?
+* Explore the different ways you can dynamically filter the data
+* Can you also find RNA-seq data in B cells?
 
 ### 3- GTEx Data Portal
 
-TODO
+* Go to https://www.gtexportal.org
+* How many datasets are available?
+* Look for the gene *CD79A*, it's expressed in how many tissues? [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/CD79A_gtex.jpeg)
 
 ### Congrats, you're done!
 
