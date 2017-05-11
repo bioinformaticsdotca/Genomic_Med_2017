@@ -41,13 +41,29 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 <img src="https://bioinformaticsdotca.github.io/Genomic_Med_2017/img/ihec_data.jpeg" alt="IMG" width="750" />
 
+* Explore the various filtering options on the right, is there a way to restrict this list to your tissue of interest?
+
+* Can you sort and re-organize the grid differently? Try sorting by tissue.
+
+#### Visualizing the tracks
+
+* Select the 3 H3K27ac ChIP-seq datasets in *B cells - Other*
+   * Notice the importance of ontologies...
+
+* Click on the button *Visualize in Genome Browser* just below the grid
+   * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen H3K427ac ChIP-Seq and RNA-seq datasets. In the Genome Browser, you can expand the tracks by changing visibility from "pack" to "full" and clicking the "Refresh" button.
+
+* Now, type in the name of the gene CD79
+
+
+
 * Select 3 RNA-seq datasets in *Adipocyte of omentum tissue*
 
 * Select 3 RNA-seq datasets in *induced pluripotent stem cells*
 
 * Click on the button *Correlate datasets* just below the grid, you should see something like:
 
-<img src="https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg" alt="IMG" width="750" />
+[Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg)
 
 #### Visualizing the tracks
 
