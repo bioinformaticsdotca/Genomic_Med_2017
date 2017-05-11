@@ -70,7 +70,10 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 * You should get something like this: [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/CD79A.jpg)
 
+* Can you find another gene expressed in B cells?
 
+#### Tracks correlation
+You can get a whole genome overview of the similarity of a group of tracks by using the Portal's correlation tool.
 
 * Select 3 RNA-seq datasets in *Adipocyte of omentum tissue*
 
@@ -80,39 +83,27 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/correlation.jpeg)
 
-#### Visualizing the tracks
+* Can you find a outlier/bad datasets?
+   * Try correlating the 8 *amygdala - Other* with the 5 *B cell - Blood* H3K27ac datasets 
 
-* Select "Visualize in Genome Browser"
-    * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen muscle H3K427ac ChIP-Seq datasets. In the Genome Browser, you can expand the tracks by changing visibility from "pack" to "full" and clicking the "Refresh" button.
+#### Download tracks or metadata
+You can also download these tracks locally for visualization or further analysis, or view the metadata.
 
-<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_fullTrackView.png" alt="IMG" width="750" />
-    
-* You can also download these tracks locally for visualization in IGV. (You can skip this step if you're comfortable with IGV already)
-    * Go back to the IHEC Data Portal tab.
-    * Click on the "Download tracks" button at the bottom of the grid.
-    * Use the download links to download a few of the tracks.
-    * Open them in IGV.
+* Go back to the IHEC Data Portal tab.
+* Click on the *Download tracks* button at the bottom of the grid.
+* Use the download links to download a few of the tracks.
+* Go back to the IHEC Data Portal tab.
+* Click on the *Get metadata* button at the bottom of the grid.
 
-#### Tracks correlation
-You can get a whole genome overview of the similarity of a group of tracks by using the Portal's correlation tool.
+#### Permanent session
+Finally, you can create a permanent session corresponding to your current selections in the portal
 
-* From the filters at the bottom of the grid, add back datasets for all tissues.
-
-* Select all ChIP-Seq marks for the cell type "Bone Marrow Derived Mesenchymal Stem Cell Cultured Cell".
-
-<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_roadmap_chipseq.png" alt="IMG" width="750" />
-
-* At the bottom of the grid, click on the button "Correlate tracks".
-
-* You will see that tracks seem to correlate nicely, with activator marks clustering together and repressor marks forming another group. You can zoom out the view at the upper right corner of the popup.
-
-* You can also use the correlation tool to assess whether datasets that are supposed to be similar actually are.
-    * Activate the track hubs for all consortia.
-    * Click on the grid cell for cell type "B Cell" and assay "H3K27ac".
-    * Click on "Correlate tracks".
-    * One dataset seems to be an outlier... This is either a problem with the quality of the dataset, or the underlying metadata can indicate that something is different (disease status or some other key element).
-
-<img src="https://bioinformatics-ca.github.io/2016_workshops/epigenomics/img/module4_portal_BCell.png" alt="IMG" width="750" />
+* Go back to the IHEC Data Portal tab.
+* Make a selection of datasets and click on the *Save session* button at the bottom of the grid.
+* You now have a nicer and permanent view of the data you have selected
+   * You can use this ID and assocaited web address (e.g. http://epigenomesportal.ca/ihec/IHECDP00000092) and share it with your collaborators or in publications
+* A permanent session also has links to all the raw datasets
+* Is is as easy that access that data?
 
 ### 2- ENCODE Data Portal
 
