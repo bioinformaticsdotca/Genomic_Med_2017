@@ -6,14 +6,16 @@
 # Author: Andrei Turinsky
 ###############################################################################
 
-library(FlowSorted.Blood.450k)
-library(GEOquery)
-library(gplots)
-library(lumi)
-library(minfi)
-library(matrixStats)
-library(minfiData) 
-library(sva)
+source("http://bioconductor.org/biocLite.R");
+
+biocLite(FlowSorted.Blood.450k);
+library(GEOquery);
+library(gplots);
+library(lumi);
+biocLite(minfi);
+library(matrixStats);
+biocLite(minfiData);
+biocLite(sva);
 
 dataPath = '.'
 
