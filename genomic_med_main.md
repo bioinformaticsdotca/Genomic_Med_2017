@@ -89,7 +89,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lecture](https://bioinformatics.ca/genmed2017mod5)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io/)
+[Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module5_lab)
 
 ## Module 6: Epigenetic Profiling in Disease
 
@@ -97,7 +97,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lecture](https://bioinformatics.ca/genmed2017mod6)  
 
-[Lab Practical](https://bioinformaticsdotca.github.io/)
+[Lab Practical](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)
 
 ## Module 7: Patient Similarity Fusion 
 
