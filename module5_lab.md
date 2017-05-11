@@ -117,6 +117,8 @@ Finally, you can create a permanent session corresponding to your current select
 * Go to https://www.gtexportal.org
 * How many datasets are available?
 * Look for the gene *CD79A*, it's expressed in how many tissues? [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/CD79A_gtex.jpeg)
+* How many isoforms are expressed?
+* Can you find a genetic variant that associated with CD79A expression levels?
 * Can you find a gene that's diffentially expressed based on gender? Try XIST...
 * What about a gene with the reverse pattern?
 
