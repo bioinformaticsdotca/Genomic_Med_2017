@@ -110,3 +110,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 [Lab Practical](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/CBW-GenomicMedicine-Module7-Lab-script.r)
 
 ***
+
+## Survey
+
+Thank you for attending the Bioinformatics of Genomic Medicine workshop!  Help us make this workshop better by filling out [our survey](https://goo.gl/forms/qfurS7kXs5XujFVr2).
