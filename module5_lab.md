@@ -43,17 +43,32 @@ In this module's lab, we will explore some of the tools that were covered in the
 
 * Explore the various filtering options on the right, is there a way to restrict this list to your tissue of interest?
 
-* Can you sort and re-organize the grid differently? Try sorting by tissue.
+* Can you sort and re-organize the grid differently? Try sorting by *Cell type category*.
 
 #### Visualizing the tracks
 
 * Select the 3 H3K27ac ChIP-seq datasets in *B cells - Other*
    * Notice the importance of ontologies...
+   
+* Select the 3 mRNA-seq datasets in the same cell type
 
 * Click on the button *Visualize in Genome Browser* just below the grid
-   * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen H3K427ac ChIP-Seq and RNA-seq datasets. In the Genome Browser, you can expand the tracks by changing visibility from "pack" to "full" and clicking the "Refresh" button.
+   * You can see that the datasets are being displayed at a mirror of the UCSC Genome Browser. These are all peaks and signal for the chosen H3K27ac ChIP-Seq and RNA-seq datasets. 
 
-* Now, type in the name of the gene CD79
+* (Optional) If the browser is slow, notice that in the address bar you have something like:
+   * http://ucscbrowser.genap.ca/cgi-bin/hgTracks?hubClear=http://epigenomesportal.ca/cgi-bin/hub.cgi?session=3113&db=hg19
+   * The second portion of the address is actually a track hub that you can load in any UCSC Genome Browser
+   * Go to the main UCSC genome browser: http://genome.ucsc.edu/cgi-bin/hgGateway
+   * Click on MyData -> Track Hubs, then click on My Hubs
+   * Copy the URL, e.g. http://epigenomesportal.ca/cgi-bin/hub.cgi?session=3113&db=hg19
+   
+* Now, type in the name of the gene CD79A (a gene expressed in B cells)
+   
+* In the Genome Browser, expand the ChIP-seq tracks and RNA-seq tracks by changing visibility from "pack" to "full" and clicking the "Refresh" button.
+
+* Zoom out 10X, do you see the potential regulatory regions around this genes?
+
+* You should get something like this: [Solution](https://github.com/bioinformaticsdotca/Genomic_Med_2017/blob/master/img/CD79A.jpg)
 
 
 
