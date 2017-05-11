@@ -99,7 +99,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module6_lab)  
 
-[Lab Script](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)
+[Lab Script](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/mod6/cbw_mod6.R)  
+
+[GEO file](https://drive.google.com/open?id=0B9YRtlFnFl-QM1BNc1JKYTQ2cUE)  
 
 ## Module 7: Patient Similarity Fusion 
 
