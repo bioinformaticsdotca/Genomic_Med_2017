@@ -27,7 +27,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 ## Unix Tutorial
 
-[Lab Practical](https://bioinformatics.ca/genmed2017modunix)  
+[Lab Practical](https://drive.google.com/a/bioinformatics.ca/file/d/1dbgRw6E63ob79-dfyM9WY0YKRxorluuI/view?usp=sharing)  
 
 # Day 1 <a id="day1"></a>
 
@@ -41,7 +41,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Michael Brudno</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod1)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1XzmjudCdK94xuXcdNX_fSxTVCvJVkFfJ/view?usp=sharing)  
+
+[Recording](https://youtu.be/UkYte6gcC-A)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module1_lab)
 
@@ -54,7 +56,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Mathieu Bourgey</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod2)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1n8VLZtFSg5nGkrqzdavx952T_Rqbf475/view?usp=sharing) 
+
+[Recording](https://youtu.be/Zp0PQ44T4R8)  
 
 [Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module2_lab)
 
@@ -62,7 +66,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Guillaume Bourque</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod3)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1FZUBXpXnBskhgDh3QofRXVDsPcS3DwLc/view?usp=sharing)  
+
+[Recording](https://youtu.be/aTKbtX_K5XU)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/Bioinformatics-for-genomics-medecine_2017_module3_lab)  
 
@@ -77,7 +83,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Carl Virtanen</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod4)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/15SMshq2_H8RHyvPvfcWA1rzqNbRar6eK/view?usp=sharing)  
+
+[Recording](https://youtu.be/d0-OrfDG8s8)  
 
 ***
 
@@ -87,7 +95,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Guillaume Bourque</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod5)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1z-fEI02d0OFL8sQccNM96w0sD1-Fuexl/view?usp=sharing)  
+
+[Recording](https://youtu.be/QovqEcYS5VU)  
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module5_lab)
 
@@ -95,7 +105,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Andrei Turinsky</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod6)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1ORvfSD0yRwGCvhrABcZDKAO3BMkPvvFJ/view?usp=sharing)  
+
+[Recording](https://youtu.be/3jrEC4FmkyU)  
 
 [Lab Practical](https://bioinformaticsdotca.github.io/GenMed_2017_module6_lab)  
 
@@ -107,9 +119,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Anna Goldenberg</font>* 
 
-[Lecture](https://bioinformatics.ca/genmed2017mod7)
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1z6DI9WfJVJ3JZmTEwxLGEkqrB9LUBYc3/view?usp=sharing)  
 
-[Lab Lecture](https://bioinformatics.ca/genmed2017mod7b)
+[Recording](https://youtu.be/mZUaUB6dcBU)  
+
+[Lab Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1_TaMTCrTS0omssDqaqjBB3YSjP1vUDK7/view?usp=sharing)
 
 [Lab Practical](https://raw.githubusercontent.com/bioinformaticsdotca/Genomic_Med_2017/master/CBW-GenomicMedicine-Module7-Lab-script.r)  
 [Lab R Data](https://drive.google.com/open?id=0B9YRtlFnFl-QWXk4cTVwYVZOVTA)  
