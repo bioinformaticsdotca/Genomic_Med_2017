@@ -5,6 +5,9 @@ title: Genomic Medicine
 header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine
 image: /site_images/CBW_population_icon.jpg
+keywords: identify disease variants, multi-omic approaches to identify homogenous clusters, build patient trajectories
+instructors: Guillaume Bourque, Micheal Brudno, Mathieu Bourgey, Carl Virtanen, Andrei Turinsky, Anna Goldenberg
+length: 2 days
 ---
 
 # Welcome <a id="welcome"></a>
