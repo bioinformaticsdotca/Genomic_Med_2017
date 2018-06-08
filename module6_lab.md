@@ -6,6 +6,9 @@ header1: Workshop Pages for Students
 header2: Genomic Medicine 2017 Module 6 Lab
 image: /site_images/CBW_population_icon.jpg
 home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
+description: Epigenetic Profiling in Disease
+author: Andrei Turinsky
+modified: May 11th, 2017
 ---
 
 # Module 6: Epigenetic Profiling in Disease 
