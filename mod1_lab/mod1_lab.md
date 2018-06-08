@@ -6,7 +6,7 @@ header1: Workshop Pages for Students
 header2: Bioinformatics of Genomic Medicine 2017 Module 1 Lab
 image: /site_images/CBW_population_icon.jpg
 home: https://bioinformaticsdotca.github.io/genomic_medicine_2017
-desription:
+desription: GenMed Lab 1
 author: Micheal Brudno
 modified: May 10th 2017
 ---
